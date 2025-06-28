@@ -101,6 +101,9 @@
         "CHANNELS_DEFAULT": [
             "#a39fbf"
         ],
+        "PANEL_BG": [
+            "#000000"
+        ],
         "CHAT_BACKGROUND": [
             "#161033"
         ]
