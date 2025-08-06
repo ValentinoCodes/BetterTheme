@@ -134,10 +134,7 @@
         "GREEN_345": "#6a58f5",
         "BLUE_345": "#6a58f5",
         "WHITE_500": "#dbd7f5"
-        "background": {
-      "blur": 0,
-      "url": "https://files.catbox.moe/rzm42s.png",
-            "alpha": 1
+        
     },
     "spec": 2
 }
