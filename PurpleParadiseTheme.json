@@ -137,6 +137,7 @@
         "background": {
       "blur": 0,
       "url": "https://files.catbox.moe/rzm42s.jpg",
+            "alpha": 1
 
     },
     "spec": 2
